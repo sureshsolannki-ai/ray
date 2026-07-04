@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Deeptech / General AI infrastructure
+**Domain:** AI Foundation & Infra
 **Upstream:** https://github.com/ray-project/ray
 **Fork:** https://github.com/sureshsolannki-ai/ray
 **Priority:** Med
